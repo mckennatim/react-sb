@@ -1,0 +1,16 @@
+/*styles*/
+tr {
+	height:15px;
+}
+
+td {
+	padding: 2px;
+	height:5px;
+	width: 120px;
+	border: 1px solid black;
+	color: green;
+}
+
+body {
+	color: green;
+}
